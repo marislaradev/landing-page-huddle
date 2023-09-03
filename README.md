@@ -24,7 +24,7 @@
 
 <br>
 
-## Como acessar o site pelo Github Pages 🖱
+## Como acessar o projeto pelo Github Pages 🖱
 <p>É só clicar <a href="https://marislaradev.github.io/landing-page-huddle/" target="_blank" >aqui🔗</a> e conferir!</p>
 
 
