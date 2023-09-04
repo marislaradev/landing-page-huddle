@@ -1,6 +1,7 @@
 # Desafio Landing Page Huddle do Frontend Mentor ✨
 
-![gifresponsivogdehuddle](https://github.com/marislaradev/landing-page-huddle/assets/121054908/d518915d-9707-4bb7-8313-bc976944ae59)
+![desktophuddle](https://github.com/marislaradev/landing-page-huddle/assets/121054908/686f4d40-d1ec-47f9-927c-725e57f226cf)
+
 
 <br>
 
@@ -20,7 +21,8 @@
 
 <p>Abra-o no seu celular ou no navegador! 📱✨💻 </p>
 
-![gifresponsivohuddle](https://github.com/marislaradev/landing-page-huddle/assets/121054908/d1dd5216-9ad8-49a7-8422-501d9962a91c)
+![huddlemobile](https://github.com/marislaradev/landing-page-huddle/assets/121054908/e54c0432-7d20-4525-84a5-2e99f96d5131)
+
 
 <br>
 
